@@ -1,2 +1,2 @@
-# boylarplate
-Front-end Style Guide Presentation Boylerplate
+# boilerplate
+Front-end Style Guide Presentation Boilerplate
